@@ -1,0 +1,57 @@
+Gizlilik Politikası
+
+Hayat Çarkı – Şans Çarkı Uygulaması
+
+Son Güncelleme: 03 Mart 2026
+
+Hayat Çarkı (“Uygulama”), kullanıcılarına eğlence amaçlı rastgele seçim ve şans çarkı deneyimi sunmak amacıyla geliştirilmiştir. Bu gizlilik politikası, uygulamayı kullanırken hangi verilerin toplanıp toplanmadığını ve nasıl işlendiğini açıklamaktadır.
+
+1. Toplanan Veriler
+
+Hayat Çarkı uygulaması:
+
+Kişisel veri toplamaz.
+
+Ad, soyad, e-posta, telefon numarası gibi bilgiler istemez.
+
+Konum bilgisi toplamaz.
+
+Kamera, mikrofon veya dosya erişimi kullanmaz.
+
+Uygulama yalnızca cihaz üzerinde çalışır ve kullanıcı verilerini bir sunucuya göndermez.
+
+2. Reklam ve Üçüncü Taraf Hizmetler
+
+Uygulama içerisinde üçüncü taraf reklam hizmetleri (örneğin Google AdMob) kullanılabilir. Bu hizmetler:
+
+Cihaz bilgileri
+
+Reklam kimliği (Advertising ID)
+
+Çerezler ve benzeri teknolojiler
+
+gibi anonim verileri toplayabilir.
+
+Bu veriler, kişiselleştirilmiş reklam göstermek veya reklam performansını ölçmek amacıyla kullanılabilir.
+
+Google’ın veri politikası hakkında bilgi için:
+https://policies.google.com/privacy
+
+3. Veri Güvenliği
+
+Uygulama, kullanıcıdan doğrudan veri toplamadığı için veri depolama işlemi gerçekleştirmez.
+Üçüncü taraf servisler kendi güvenlik politikalarına göre veri işlemektedir.
+
+4. Çocukların Gizliliği
+
+Hayat Çarkı genel kitleye yöneliktir. Bilerek 13 yaş altı çocuklardan kişisel veri toplanmaz. Eğer ebeveyn veya veli olarak çocuğunuzun kişisel veri paylaştığını düşünüyorsanız bizimle iletişime geçebilirsiniz.
+
+5. Değişiklikler
+
+Bu gizlilik politikası zaman zaman güncellenebilir. Güncellemeler bu sayfa üzerinden duyurulur.
+
+6. İletişim
+
+Gizlilik politikasıyla ilgili sorularınız için:
+
+E-posta: dumanemre1993@gmail.com
