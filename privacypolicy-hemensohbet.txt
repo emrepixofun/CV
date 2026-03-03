@@ -1,0 +1,99 @@
+Gizlilik Politikası
+
+Son Güncelleme Tarihi: 03.03.2026
+
+Bu Gizlilik Politikası, Hemen Sohbet mobil uygulamasının kullanıcı verilerini nasıl topladığını, kullandığını ve koruduğunu açıklamaktadır.
+
+1. Toplanan Bilgiler
+
+Uygulama aşağıdaki bilgileri toplayabilir:
+
+1.1 Google Hesap Bilgileri
+
+Kullanıcı uygulamaya Google hesabı ile giriş yapar. Bu kapsamda aşağıdaki bilgiler alınabilir:
+
+Ad ve soyad (Google profil adı)
+
+E-posta adresi
+
+Benzersiz kullanıcı kimliği (UID)
+
+Bu bilgiler yalnızca uygulama içi kullanıcı kimliğini oluşturmak ve diğer kullanıcılara görüntülemek amacıyla kullanılır.
+
+1.2 Cihaz Bilgileri
+
+Firebase Cloud Messaging (FCM) cihaz token’ı
+Bu token, mesajların ilgili cihaza iletilebilmesi için kullanılır.
+
+1.3 Mesaj İçeriği
+
+Kullanıcılar arasında gönderilen metin mesajları, Firebase Cloud Messaging aracılığıyla iletilir.
+Uygulama mesaj geçmişini bir veritabanında saklamaz.
+
+2. Verilerin Kullanım Amacı
+
+Toplanan veriler aşağıdaki amaçlarla kullanılır:
+
+Kullanıcı kimliğinin doğrulanması (Google ile giriş)
+
+Aktif kullanıcıların tespit edilmesi
+
+Kullanıcılar arasında anlık mesaj iletimi
+
+Mesajların doğru cihaza yönlendirilmesi
+
+3. Veri Saklama Politikası
+
+Uygulama, mesaj geçmişini kalıcı olarak saklamaz.
+
+Mesajlar yalnızca iletim amacıyla kullanılır.
+
+Uygulama sunucularında kullanıcı mesajları depolanmaz.
+
+Google hesabı bilgileri yalnızca oturum süresince kullanılır.
+
+4. Üçüncü Taraf Hizmetler
+
+Uygulama aşağıdaki üçüncü taraf hizmetleri kullanır:
+
+Google Firebase Authentication
+
+Firebase Cloud Messaging (FCM)
+
+Bu hizmetler kendi gizlilik politikalarına tabidir.
+Detaylı bilgi için:
+https://policies.google.com/privacy
+
+5. Veri Paylaşımı
+
+Uygulama:
+
+Kullanıcı verilerini satmaz.
+
+Reklam amaçlı veri paylaşmaz.
+
+Üçüncü taraflarla ticari veri paylaşımı yapmaz.
+
+Veriler yalnızca uygulamanın temel işlevini yerine getirmek amacıyla kullanılır.
+
+6. Güvenlik
+
+Uygulama, Firebase altyapısını kullanmaktadır. Ancak internet üzerinden yapılan hiçbir veri iletimi %100 güvenli değildir. Kullanıcılar uygulamayı kendi sorumluluklarında kullanırlar.
+
+7. Çocukların Gizliliği
+
+Bu uygulama 13 yaş altındaki çocuklara yönelik değildir. 13 yaş altındaki kullanıcıların uygulamayı kullanmaması önerilir.
+
+8. Haklarınız
+
+Kullanıcılar:
+
+Google hesabı üzerinden oturumlarını sonlandırabilir,
+
+Uygulamayı cihazlarından kaldırarak veri iletimini durdurabilirler.
+
+9. İletişim
+
+Gizlilik Politikası ile ilgili sorularınız için:
+
+E-posta: dumanemre1993@gmail.com
