@@ -1,0 +1,97 @@
+GİZLİLİK POLİTİKASI
+
+Sanal Kripto TRY
+
+Son Güncelleme Tarihi: 03 Mart 2026
+
+Sanal Kripto TRY (“Uygulama”), eğitim ve simülasyon amaçlı geliştirilmiş bir kripto para al-sat simülasyon uygulamasıdır. Bu Gizlilik Politikası, Uygulama’yı kullandığınızda bilgilerinizin nasıl işlendiğini açıklar.
+
+1. Toplanan Veriler
+
+Sanal Kripto TRY hiçbir kişisel veri toplamaz, saklamaz veya üçüncü taraflarla paylaşmaz.
+
+Uygulama aşağıdaki verileri toplamaz:
+
+Ad ve soyad
+
+E-posta adresi
+
+Telefon numarası
+
+Konum bilgisi
+
+Rehber veya kişiler
+
+Finansal bilgiler
+
+Ödeme bilgileri
+
+Kimlik bilgileri
+
+Uygulamada üyelik veya giriş (login) sistemi bulunmamaktadır.
+
+2. Cihazda Yerel Olarak Saklanan Veriler
+
+Uygulama aşağıdaki bilgileri yalnızca cihazınızda yerel olarak saklar:
+
+Sanal cüzdan bakiyeleri
+
+Simülasyon işlem geçmişi
+
+Seçilen işlem paritesi tercihleri
+
+Bu veriler:
+
+Sadece cihazınızın yerel depolama alanında tutulur
+
+Herhangi bir sunucuya gönderilmez
+
+Üçüncü taraflarla paylaşılmaz
+
+Uygulama silindiğinde tamamen silinir
+
+3. Piyasa Verileri
+
+Uygulama, kripto para fiyatlarını ve emir defteri verilerini üçüncü tarafların herkese açık API servislerinden alır.
+
+Bu veriler:
+
+Sadece piyasa bilgilerini göstermek amacıyla kullanılır
+
+Kullanıcıya ait herhangi bir kişisel veri içermez
+
+Kullanıcı ile ilişkilendirilmez
+
+Sanal Kripto TRY herhangi bir kripto para borsası ile resmi olarak bağlantılı değildir.
+
+4. Üçüncü Taraf Hizmetler
+
+Uygulama aşağıdaki hizmetleri kullanmaz:
+
+Reklam servisleri
+
+Analitik veya takip araçları
+
+Kullanıcı davranış izleme sistemleri
+
+Üçüncü taraf veri toplama sistemleri
+
+Gelecekte uygulamaya yeni servisler eklenmesi durumunda bu Gizlilik Politikası güncellenecektir.
+
+5. Çocukların Gizliliği
+
+Uygulama 13 yaş altındaki çocuklardan bilerek kişisel veri toplamaz. Zaten uygulama herhangi bir kişisel veri toplamadığı için genel kullanıma uygundur.
+
+6. Veri Güvenliği
+
+Uygulama kişisel veri toplamadığı için kişisel veri güvenliği riski bulunmamaktadır. Simülasyon verileri yalnızca cihazınızda saklanır.
+
+7. Gizlilik Politikasında Değişiklikler
+
+Bu Gizlilik Politikası zaman zaman güncellenebilir. Güncellemeler bu sayfada yayınlanır ve tarih bilgisi güncellenir.
+
+8. İletişim
+
+Gizlilik Politikası hakkında herhangi bir sorunuz olması durumunda aşağıdaki e-posta adresinden bizimle iletişime geçebilirsiniz:
+
+📧 dumanemre1993@gmail.com
