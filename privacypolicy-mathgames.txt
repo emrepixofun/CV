@@ -1,5 +1,47 @@
-- The app "Matematik Arcade" does not use any personal information
-- Since none of the data of user is being collected or used, there is no need to delete any data
-- App does not request any of the permissions
+Matematik Arcade – Gizlilik Politikası
 
-For any further questions, you can send an email to "dumanemre1993@gmail.com" or also "emreakin75@hotmail.com"
+Son Güncelleme Tarihi: 04 Mart 2026
+
+Matematik Arcade uygulaması kullanıcı gizliliğine saygı duyar. Bu gizlilik politikası, uygulamanın kullanıcı verilerini nasıl topladığı, kullandığı ve koruduğu hakkında bilgi vermek amacıyla hazırlanmıştır.
+
+1. Toplanan Bilgiler
+
+Matematik Arcade uygulaması kullanıcılarından herhangi bir kişisel bilgi toplamaz. Uygulama;
+
+Ad
+
+E-posta adresi
+
+Telefon numarası
+
+Konum bilgisi
+
+Kimlik bilgileri
+
+gibi kişisel verileri talep etmez ve saklamaz.
+
+2. Kullanım Verileri
+
+Uygulama, kullanıcı deneyimini iyileştirmek amacıyla anonim kullanım verileri toplayabilir. Bu veriler kullanıcı kimliği ile ilişkilendirilmez.
+
+3. Reklam ve Üçüncü Taraf Hizmetler
+
+Uygulama içerisinde üçüncü taraf reklam servisleri veya analiz araçları bulunabilir. Bu servisler kendi gizlilik politikalarına göre veri toplayabilir. Bu veriler uygulama geliştiricisi tarafından doğrudan kontrol edilmez.
+
+4. Çocukların Gizliliği
+
+Matematik Arcade her yaş grubuna uygun olacak şekilde tasarlanmıştır. Uygulama bilerek çocuklardan kişisel veri toplamaz.
+
+5. Veri Güvenliği
+
+Uygulama kullanıcı verilerini saklamadığı için veri ihlali riski minimum seviyededir. Kullanıcıların gizliliğini korumak için gerekli teknik önlemler alınmaktadır.
+
+6. Politika Değişiklikleri
+
+Bu gizlilik politikası zaman zaman güncellenebilir. Güncellenmiş sürümler uygulama sayfasında yayınlanacaktır.
+
+7. İletişim
+
+Gizlilik politikası ile ilgili herhangi bir sorunuz varsa aşağıdaki e-posta adresinden iletişime geçebilirsiniz:
+
+E-posta: dumanemre1993@gmail.com
