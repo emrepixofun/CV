@@ -1,0 +1,6 @@
+- The app "CipherChat" does not use any personal information
+- Since none of the data of user is being collected or used, there is no need to delete any data
+- App does not request any of the permissions
+- App need an internet connection in order to chat
+
+For any further questions, you can send an email to "dumanemre1993@gmail.com"
