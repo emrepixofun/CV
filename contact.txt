@@ -1,0 +1,2 @@
+Geliştirici isim/soyisim  : "Emre Akın"
+Geliştirici eposta        : "dumanemre1993@gmail.com"
