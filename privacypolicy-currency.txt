@@ -1,0 +1,90 @@
+📄 Privacy Policy – Döviz Çevirici
+
+Son güncelleme: 17 Mart 2026
+
+Döviz Çevirici (“Uygulama”) kullanıcı gizliliğine önem verir. Bu gizlilik politikası, uygulamayı kullandığınızda hangi verilerin toplandığını ve nasıl kullanıldığını açıklar.
+
+1. Toplanan Veriler
+
+Uygulama doğrudan kişisel veri toplamaz.
+
+Ancak aşağıdaki üçüncü taraf servisler aracılığıyla bazı anonim veriler toplanabilir:
+
+🔹 Reklam Verileri (Google AdMob)
+
+Uygulama, reklam göstermek için Google AdMob kullanır.
+AdMob aşağıdaki verileri toplayabilir:
+
+Cihaz bilgileri (model, işletim sistemi)
+
+IP adresi
+
+Reklam etkileşimleri
+
+Yaklaşık konum bilgisi
+
+Detaylı bilgi için:
+https://policies.google.com/privacy
+
+🔹 Firebase Realtime Database
+
+Uygulama, performansı artırmak için döviz verilerini Firebase üzerinde cache’ler.
+
+Kullanıcıya ait kişisel veri tutulmaz
+
+Sadece döviz verileri saklanır
+
+🔹 API Kullanımı
+
+Uygulama döviz kurlarını almak için üçüncü taraf bir API kullanır:
+
+https://www.exchangerate-api.com
+
+Bu servis kendi gizlilik politikasına sahiptir.
+
+2. Verilerin Kullanımı
+
+Toplanan veriler aşağıdaki amaçlarla kullanılır:
+
+Döviz kurlarını sağlamak
+
+Uygulama performansını artırmak
+
+Reklam gösterimini optimize etmek
+
+3. Veri Paylaşımı
+
+Uygulama:
+
+Kullanıcı verilerini satmaz
+
+Kişisel veri paylaşmaz
+
+Ancak aşağıdaki servislerle anonim veri paylaşılabilir:
+
+Google AdMob
+
+Firebase
+
+ExchangeRate API
+
+4. Güvenlik
+
+Verilerin güvenliği önemlidir.
+Ancak internet üzerinden veri iletiminin %100 güvenli olduğu garanti edilemez.
+
+5. Çocukların Gizliliği
+
+Uygulama 13 yaş altındaki çocuklara özel olarak hedeflenmemiştir.
+Bilerek çocuklardan veri toplanmaz.
+
+6. Değişiklikler
+
+Bu gizlilik politikası zaman zaman güncellenebilir.
+Güncellemeler bu sayfada yayınlanır.
+
+7. İletişim
+
+Herhangi bir sorunuz varsa bizimle iletişime geçebilirsiniz:
+
+📧 dumanemre1993@gmail.com
