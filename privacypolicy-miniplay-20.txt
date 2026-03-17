@@ -1,0 +1,67 @@
+Privacy Policy
+
+MiniPlay 20 Privacy Policy
+
+This Privacy Policy describes how your information is handled in the MiniPlay 20 mobile application.
+
+1. Information Collection and Use
+
+MiniPlay 20 does not directly collect or store any personal information from users.
+
+However, the app uses third-party services that may collect information used to identify you.
+
+2. Third-Party Services
+
+The app uses the following third-party services:
+
+Google AdMob (Advertising)
+
+These services may collect data such as:
+
+Device information
+
+Advertising ID
+
+Usage data
+
+IP address
+
+For more information, please refer to:
+
+https://policies.google.com/privacy
+
+3. Data Usage
+
+Collected data is used for:
+
+Showing ads
+
+Improving app performance
+
+Ensuring app functionality
+
+4. Data Sharing
+
+We do not sell or share personal data with third parties.
+
+However, third-party services (such as AdMob) may process data according to their own privacy policies.
+
+5. Children's Privacy
+
+MiniPlay 20 does not knowingly collect personal information from children.
+
+If you believe a child has provided personal information, please contact us.
+
+6. Security
+
+We value your trust in using our app. While we do not collect personal data directly, we rely on trusted third-party services.
+
+7. Changes to This Policy
+
+This Privacy Policy may be updated from time to time. Changes will be reflected on this page.
+
+8. Contact Us
+
+If you have any questions, contact:
+
+📧 dumanemre1993@gmail.com
