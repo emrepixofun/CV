@@ -1,8 +1,80 @@
-Privacy policy of the Nöbetçi Eczane app:
+Privacy Policy
 
-- The app "Nöbetçi Eczane" does not use any personal information
-- Since none of the data of user is being collected or used, there is no need to delete any data
-- App does not request any of the permissions except internet permission
-- App needs internet connection
+This Privacy Policy describes how the application "Nöbetçi Eczane" handles user information.
 
-For any further questions, you can send an email to "dumanemre1993@gmail.com" or also "emreakin75@hotmail.com"
+1. Information We Collect
+
+We do not collect any personally identifiable information from users.
+
+However, the App uses third-party services that may collect certain information automatically, including:
+
+Device information (model, OS version)
+
+IP address
+
+Usage data
+
+Advertising identifiers
+
+These data are collected solely for analytics and advertising purposes.
+
+2. Third-Party Services
+
+The App uses the following third-party services:
+
+Google AdMob
+
+We use AdMob to display advertisements. AdMob may collect and process user data such as:
+
+Advertising ID
+
+Device information
+
+Interaction with ads
+
+You can learn more about how Google uses data here:
+https://policies.google.com/technologies/ads
+
+External APIs
+
+The App fetches pharmacy data using third-party APIs. These APIs may process:
+
+Selected city information
+
+Request metadata (IP, device)
+
+No personal data is sent by the App.
+
+3. Data Storage and Retention
+
+The App uses Firebase Realtime Database to temporarily store data for performance optimization.
+
+Data is cached for a limited time (typically within the same day)
+
+Data is automatically refreshed and overwritten
+
+No personal user data is stored permanently
+
+4. Location Information
+
+The App does not access precise user location.
+
+Users manually select their city within the App.
+
+5. Data Security
+
+We take reasonable measures to protect data processed through the App. However, no method of transmission over the Internet is 100% secure.
+
+6. Children's Privacy
+
+The App is not directed to children under the age of 13 and does not knowingly collect personal data from children.
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Users are advised to review this page periodically.
+
+8. Contact
+
+If you have any questions, you can contact us at:
+
+📧 dumanemre1993@gmail.com
