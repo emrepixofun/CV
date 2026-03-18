@@ -1,0 +1,83 @@
+Privacy Policy
+
+This Privacy Policy describes how the application "Nöbetçi Eczane" handles user information.
+
+---
+
+### 1. Information We Collect
+
+The application does not collect personally identifiable information such as name, email address, or phone number.
+
+However, the app may process limited non-personal data, including:
+
+- Selected city/location (used to display nearby pharmacies)
+- Device information (model, OS version)
+- IP address
+- Usage data
+- Advertising identifiers
+
+This data is used strictly for providing the service and improving app performance.
+
+---
+
+### 2. Health-Related Data
+
+The application provides health-related information (pharmacy availability).  
+
+However:
+- The app does not collect or store any personal health data
+- No medical records, diagnosis, or user health information is collected
+
+---
+
+### 3. Third-Party Services
+
+The app uses third-party services:
+
+Google AdMob
+- Advertising ID
+- Device information
+- Ad interaction data
+
+More info: https://policies.google.com/technologies/ads
+
+External APIs
+- City-based pharmacy data requests
+- Request metadata (IP, device info)
+
+---
+
+### 4. Data Storage and Retention
+
+- Data is stored temporarily in Firebase Realtime Database
+- Cached data is kept for a limited time (typically less than 24 hours)
+- No personal data is permanently stored
+
+---
+
+### 5. Data Deletion
+
+Since the app does not store personal user data:
+- There is no personal data to delete
+
+If you still want to request removal of cached data, you may contact:
+📧 dumanemre1993@gmail.com
+
+---
+
+### 6. Security
+
+We take reasonable measures to protect data, but no system is completely secure.
+
+---
+
+### 7. Changes
+
+This policy may be updated. Changes will be reflected in this section.
+
+---
+
+### 8. Contact
+
+For questions:
+📧 dumanemre1993@gmail.com
